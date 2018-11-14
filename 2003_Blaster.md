@@ -13,7 +13,7 @@ _Malware profile by **[Marc Cser](https://github.com/mcser)**_
 * **Year:** 2003 \[[^1]\]
 * **Author:** Xfocus \[[^2]\]
 * **Language:** C \[[^3]\]
-* **Infections:** >423,000 computers \[[^4]\, 8-16 million maximum infections according to Microsoft \[[^3]\]
+* **Infections:** >423,000 computers \[[^4]]\, 8-16 million maximum infections according to Microsoft \[[^3]\]
 * **Damage:** $320 million \[[^3]\]
 
 ### Description
