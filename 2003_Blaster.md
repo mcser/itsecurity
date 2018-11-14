@@ -32,7 +32,7 @@ _Malware profile by **[Marc Cser](https://github.com/mcser)**_
 >
 > The Blaster worm shut down CTX, the largest railroad system in the Eastern U.S., for hours, crippled the new Navy/Marine Corps intranet, shut down Air Canada's check-in system and has been implicated in the severety of the Northeast blackout. Maryland Motor Vehicle Administration authority shut its offices for the day because its systems were so severely affected by Blaster that it could no longer continue as normal. Other organisations reportedly suffering network slowdowns or worse because of the worm include German car manufacturer BMW, Swedish telco TeliaSonera, the Federal Reserve Bank of Atlanta and Philadelphia's City Hall. Damage totalled to $320 million.
 >
-> \[[^3]]\
+> \[[^3]\]
 
 [^1]: https://www.infoworld.com/article/2677291/security/blaster-worm-spreading--experts-warn-of-attack.html
 [^2]: https://web.archive.org/web/20081101140521/http://www.vnunet.com/vnunet/news/2123165/fbi-arrests-stupid-blaster-b-suspect
